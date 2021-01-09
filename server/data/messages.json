@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SJKhIAKYB",
+    "from": "system",
+    "text": "Welcome!"
+  },
+  {
+    "id": "rykFTSDAP",
+    "from": "alice",
+    "text": "hello"
+  },
+  {
+    "id": "Bkxf0rvRD",
+    "from": "alice",
+    "text": "doom"
+  }
+]
